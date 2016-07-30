@@ -1,6 +1,6 @@
 ## Interior Decorator Website | Intro to Programming
 
-#### A CSS Exercise for Epicodus, May 23, 2016
+#### A Box Model Exercise for Epicodus, May 23, 2016
 
 #### By Noah Yasskin & Maldon Meehan
 
